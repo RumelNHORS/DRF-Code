@@ -1,0 +1,4 @@
+Page Number pagination
+This Project is fro pagination
+This pagination shows in per view class.
+Here I create a new file namee-paination.py adn write a simple line of code to per view class pagination

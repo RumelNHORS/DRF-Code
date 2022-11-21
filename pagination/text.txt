@@ -1,0 +1,5 @@
+Page Number Pagination
+This is The Pagination Project.
+IT is The Project Where i can use Globally Pagination.
+For Globally pagination i Writed a simple line of Code in the settings.py, Thats IT
+ 
